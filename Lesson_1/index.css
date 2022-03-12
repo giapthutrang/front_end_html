@@ -9,6 +9,7 @@ h3 {
     text-shadow: green 2px 3px 4px;
     color: white;
     font-style: italic;
+    font-weight: bold;
 }
 
 ul li {
